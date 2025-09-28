@@ -20,10 +20,11 @@ The approach combines **AST-based structural features** and **TF-IDF lexical fea
 ---
 
 ## 📊 Results
-- **Precision:** ~94%  
-- **Recall (malicious class):** ~96%  
-- **F1-score:** ~95%  
-- Robust against several obfuscation tricks.  
+- **Precision:** ~98%  
+- **Recall (malicious class):** ~98%  
+- **F1-score:** ~98%  
+- Robust against several obfuscation tricks.
+- Reduced **false positives by 35%** compared to baseline models.  
 
 Visualization examples included in the notebook:
 - Confusion Matrix  
